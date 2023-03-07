@@ -6,3 +6,6 @@
 
 # Ignore project files
 *.dev
+
+# Ignore window configuration files
+*.win
