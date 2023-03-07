@@ -1,2 +1,8 @@
 # Ignore execution files
 *.exe
+
+# Ignore object files
+*.o
+
+# Ignore project files
+*.dev
