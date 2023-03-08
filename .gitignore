@@ -9,3 +9,11 @@
 
 # Ignore window configuration files
 *.win
+
+# Ignore files related with Visual Studio
+*.sln
+.vs
+*/.vs 
+*.vcxproj
+*.filters
+*.user
