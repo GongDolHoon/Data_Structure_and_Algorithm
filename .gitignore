@@ -17,3 +17,5 @@
 *.vcxproj
 *.filters
 *.user
+x64
+*/x64
